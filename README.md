@@ -4,8 +4,6 @@
 ## Overview
 An interactive Power BI dashboard that analyzes YouTube channels by category, subscribers, video count, average views per video and channel start year.
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
 
 ## Features
 - KPI cards showing total channels and subscribers
@@ -18,8 +16,6 @@ An interactive Power BI dashboard that analyzes YouTube channels by category, su
 ## Tools Used
 Power BI
 
-## Dataset
-YouTube channels dataset from Kaggle: [paste dataset link here]
 
 ## Key Insights
 - Most Comedy channels have a low video count but still cross 10M subscribers, so posting more videos does not guarantee more subscribers
